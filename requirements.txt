@@ -1,0 +1,10 @@
+numpy
+scipy
+pandas
+matplotlib
+torch
+tqdm
+psutil
+gymnasium[classic-control,box2d]
+mujoco
+stable-baselines3
